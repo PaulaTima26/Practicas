@@ -1,6 +1,6 @@
 package co.edu.uptc;
 //Pedro recomienda
-
+//Paula ya esta aqui
 import java.util.Scanner;
 
 public class Conversiones {
