@@ -2,10 +2,6 @@ package co.edu.uptc;
 
 import java.util.Scanner;
 
-/*Name: Paula Estefania Timaran Amezquita 
- * Date: 1/10/2025
- * Description= Conversiones entre tipos de datos 
- */
 public class Conversiones {
 	//Variables Globales 
 	
