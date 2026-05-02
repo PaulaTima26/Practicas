@@ -1,4 +1,5 @@
 package co.edu.uptc;
+//Pedro recomienda
 
 import java.util.Scanner;
 
