@@ -10,7 +10,7 @@ public class Conversiones {
 	private String nombre; 
 	private Scanner read; 
 	
-	// Metodo constructor 
+
 public Conversiones() {
 	edad=0; 
 	nombre= "";
