@@ -4,6 +4,6 @@ public class Swer {
 	private String message;
 public Swer(){
 	message="";
-  //Constructor
+  //Constructor 
 }
 }
