@@ -1,7 +1,9 @@
 package co.edu.uptc;
 //Hello it's me jeje
 public class Swer {
-public Swer{
-  private String message;
+	private String message;
+public Swer(){
+	message="";
   //Constructor
+}
 }
